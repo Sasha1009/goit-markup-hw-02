@@ -1,22 +1,36 @@
 :root {
-    --accent-color:
+    --accent-color: #2196F3;
 }
 
 header {
     background-color: #fff;
 }
 
-.site-nav {
-    font-family: Raleway;
+.logo-link {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
     font-style: bold;
     Font-size: 26px;
     line-height: 1.19;
     text-align: left;
     vertical-align: top;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
 }
+.Web {
+    color: var(--accent-color);
+}
+.Studio{
+    color: #000000;
+}
+    
+.nav-links:hover,
+.nav-links:focus,
+.email:hover,
+.email:focus,
+.phone:hover,
+.phone:focus,
 
 body {
-    background-color: #fff;
+    background-color: #ffff;
 
 }
