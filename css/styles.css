@@ -1,0 +1,22 @@
+:root {
+    --accent-color:
+}
+
+header {
+    background-color: #fff;
+}
+
+.site-nav {
+    font-family: Raleway;
+    font-style: bold;
+    Font-size: 26px;
+    line-height: 1.19;
+    text-align: left;
+    vertical-align: top;
+    letter-spacing: 3%;
+}
+
+body {
+    background-color: #fff;
+
+}
